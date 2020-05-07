@@ -10,4 +10,5 @@ semantic segmentation models include:
 - [ ] ENet
 - [ ] Fast_SCNN
 - [ ] DeepLabv3_plus
+- [ ] Bayesian CNN
 - [ ] ....
